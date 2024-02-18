@@ -14,7 +14,7 @@ Utilizing Tableau, we conduct a comprehensive analysis of the ride cancellation 
 _<h4>1. Client-Centric Focus:</h4>_  With a majority of cancellations initiated by clients, our analysis suggests the importance of enhancing client experience to reduce cancellation rates.
 _<h4>2. Timely Engagement:</h4>_ Observations reveal that a significant portion of client-initiated cancellations occur within the first 3 minutes before driver assignment, emphasizing the need for proactive client engagement during this critical window.
 _<h4>3. Hourly Demand Patterns:</h4>_ Insights into cancellation patterns during specific hours, particularly during office hours, highlight the potential for adjusting supply to meet demand effectively.
-_<h4>4. Efficient Client-Rider Matching:</h4>_ High cancellation rates despite driver assignment and extended ETA indicate the opportunity for improving client-to-rider mapping to enhance service reliability.
+
 
 <h3>Report and Resources:</h3>
 
