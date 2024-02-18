@@ -1,4 +1,4 @@
-# Project: Ride Cancellation Analysis**
+# Project: Ride Cancellation Analysis
 
 <h3>Introduction and Goal:</h3>
 Welcome to the Ride Cancellation Analysis project, where we delve into ride cancellation data from a ride-booking company to understand the reasons behind cancellations and provide recommendations to reduce the overall cancellation rate. Our goal is to analyze the dataset thoroughly and derive actionable insights to improve the efficiency and reliability of the ride-booking service.
@@ -10,7 +10,8 @@ The dataset comprises various fields such as order_datetime, origin_longitude, o
 Utilizing Tableau, we conduct a comprehensive analysis of the ride cancellation data, exploring patterns and trends related to cancellation types, driver assignments, cancellation times, hours of the day, and estimated time of arrival (ETA). By visually representing the data, we aim to identify key insights and areas for improvement within the ride-booking system.
 
 <h3>Highlights & Conclusions: </h3>
-_<h4>1. Client-Centric Focus:</h4>_ With a majority of cancellations initiated by clients, our analysis suggests the importance of enhancing client experience to reduce cancellation rates.
+
+_<h4>1. Client-Centric Focus:</h4>_  With a majority of cancellations initiated by clients, our analysis suggests the importance of enhancing client experience to reduce cancellation rates.
 _<h4>2. Timely Engagement:</h4>_ Observations reveal that a significant portion of client-initiated cancellations occur within the first 3 minutes before driver assignment, emphasizing the need for proactive client engagement during this critical window.
 _<h4>3. Hourly Demand Patterns:</h4>_ Insights into cancellation patterns during specific hours, particularly during office hours, highlight the potential for adjusting supply to meet demand effectively.
 _<h4>4. Efficient Client-Rider Matching:</h4>_ High cancellation rates despite driver assignment and extended ETA indicate the opportunity for improving client-to-rider mapping to enhance service reliability.
